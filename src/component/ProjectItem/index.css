@@ -1,0 +1,17 @@
+.project-item-container {
+  list-style-type: none;
+  margin-top: 10px;
+  margin-right: 10px;
+  height: 200px;
+  border-radius: 6px;
+  box-shadow: 0px 4px 8px 0px;
+}
+
+.project-image {
+  height: 150px;
+  width: 220px;
+}
+
+.project-name {
+  margin-left: 10px;
+}
